@@ -20,7 +20,6 @@
 #include <stdlib.h>
 #include <sys/wait.h>
 #include <string.h>
-#include <stdio.h>
 
 #define FATAL_ERR return (ft_perror("error: fatal\n"), -1)
 
